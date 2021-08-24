@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.footeredit{
+  width: 100%;
+  margin-top: auto;
+  font-weight: bold;
+  
+}
